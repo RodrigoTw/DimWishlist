@@ -1,12 +1,19 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to me.
 
-// Krait (PvE)
+// Krait
+//notes:PvP-RJ
 dimwishlist:item=2852052802&perks=839105230,1885400500,3643424744,124408337,2942552113
 dimwishlist:item=2852052802&perks=839105230,1885400500,3643424744,124408337,2942552113
 
-// Cantata-57 (PvE)
+// Cantata-57
+//notes:PvP-RJ
 dimwishlist:item=372697604&perks=1392496348,3142289711,699525795,47981717
+
+// Piece of Mind
+//notes:PvP-RJ
+dimwishlist:item=2097055732&perks=3250034553,1561002382,1570042021,11612903
+dimwishlist:item=2097055732&perks=3250034553,1561002382,1428297954,588594999
 
 
 
